@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vikram Choudhary</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+  <link rel="icon" type="image/svg+xml" href="./assets/iconbookbar.png">
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+<body>
+
+  <!---- header ---->
+  <nav id="nav-menu">
+    <header>
+      <a href="#" class="logo"><img src="./assets/thirdlogo.png"></a>
+      <ul class="menulist">
+        <a href="#home" class="active">Home</a>
+        <a href="#about">About Me</a>
+        <a href="#services">Skills</a>
+        <a href="#portfolio">Project</a>
+        <a href="#Statisticscon">Github Stats</a>
+        <a href="#contact">Contact</a>
+      </ul>
+      <div class="menu_right">
+        <a href="assets/VikramKumarChoudhary-FullStackWebDeveloper-Resume.pdf" target="_blank" class="btn2"
+          onclick="downloadFile(event)">
+          Download CV
+          <i class="ri-download-2-line"></i>
+        </a>
+        <div class="bx bx-menu" id="menu-icon"></div>
+      </div>
+    </header>
+  </nav>
+
+  <!---- home ---->
+
+  <canvas id="noise" class="noise"></canvas>
+  <section class="home" id="home">
+    <div class="home-text">
+      <a href="#" class="h-line" data-aos="fade-right" data-aos-duration="1400">
+        <i class="ri-shining-2-line"></i>
+        <span>This is Vikram Kumar Choudhary</span>
+      </a>
+      <h1 data-aos="fade-right" data-aos-duration="1400" data-aos-delay="300">UI / UX and <br> <span
+          class="input"></span></h1>
+      <h4 data-aos="zoom-in-left" data-aos-duration="1400" data-aos-delay="200">1200+ Hours of Hands-on Coding
+        Experience. </h4>
+      <div class="social-icons" data-aos="flip-left" data-aos-duration="1400" data-aos-delay="400">
+        <a href="https://www.linkedin.com/in/vikram-kumar-choudhary/" target="_blank"><i
+            class="ri-linkedin-box-fill"></i></a>
+        <a href="https://github.com/vikram0104irctc" target="_blank"><i class="ri-github-fill"></i></a>
+        <a href="https://www.instagram.com/its_vikram_.choudhary?utm_source=qr&igsh=c24wbmxycTd5M2xr" target="_blank"><i
+            class="ri-instagram-line"></i></a>
+        <a href="https://www.facebook.com/share/tC4tLZjXebpkvCqu/?mibextid=qi2Omg" target="_blank"><i
+            class="ri-facebook-fill"></i></a>
+        <a href="https://x.com/Itsavikram?t=KwXd5qoQal9wekOMLo0YLA&s=09" target="_blank"><i
+            class="ri-twitter-fill"></i></a>
+      </div>
+      <div class="h-btn" data-aos="zoom-in" data-aos-duration="1400" data-aos-delay="400">
+        <a href="#portfolio" class="btn1">
+          My Works
+          <i class="ri-arrow-right-s-line"></i>
+        </a>
+        <a href="assets/VikramKumarChoudhary-FullStackWebDeveloper-Resume.pdf" target="_blank" class="btn2"
+          onclick="downloadFile(event)">
+          Download CV
+          <i class="ri-download-2-line"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ------------about ------------ -->
+  <section class="about section" id="about">
+    <div class="about-img">
+      <img src="assets/aboutimgf.png" alt="">
+    </div>
+    <div class="about-text">
+      <a href="#about" class="h-line">
+        <i class="ri-shining-2-line"></i>
+        <span>About!</span>
+      </a>
+      <h2>More <span> About Me</span></h2>
+      <h5>Hello! I'm Vikram Kumar Choudhary, a multidisciplinary Web designer and developer based in India. I'm very
+        passionate about the work that I do.</h5>
+      <p>Astute Full Stack Web Developer with expertise in
+        JavaScript and the MERN stack. Known for
+        exceptional problem-solving and quick adaptability,
+        including proficiency in Generative AI. Skilled in
+        crafting scalable APIs, responsive frontends, and
+        optimizing databases. Committed to continuous
+        learning and enhancing development workflows.
+      </p>
+      <div class="h-btn">
+        <a href="mailto:vikram0104irctc@gmail.com" class="btn1">
+          Hire Me
+          <i class="ri-arrow-right-s-line"></i>
+        </a>
+        <a href="assets/VikramKumarChoudhary-FullStackWebDeveloper-Resume.pdf" class="btn2"
+          onclick="downloadFile(event)">
+          Download CV
+          <i class="ri-download-2-line"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- -------------skills------------- -->
+  <section class="services" id="services">
+    <div class="services-left">
+      <a href="#services" class="h-line">
+        <i class="ri-shining-2-line"></i>
+        <span>My Skills!</span>
+      </a>
+      <h2>Why Should You <span>Hire Me?</span></h2>
+      <p>I offer comprehensive web development expertise, adept in HTML, CSS, JavaScript, and React for creating
+        responsive, interactive websites. My front-end proficiency ensures intuitive user interfaces with a focus on
+        design aesthetics. On the back end, I excel in Node.js, Express, and database management, delivering scalable
+        and secure web applications. With strong problem-solving skills and a collaborative approach, I contribute
+        effectively to team success, prioritizing quality and timely project delivery.!</p>
+      <div class="h-btn">
+        <a href="#portfolio" class="btn1">
+          View All
+          <i class="ri-arrow-right-s-line"></i>
+        </a>
+        <a href="assets/VikramKumarChoudhary-FullStackWebDeveloper-Resume.pdf" class="btn2"
+          onclick="downloadFile(event)">
+          Download CV
+          <i class="ri-download-2-line"></i>
+        </a>
+      </div>
+    </div>
+    <div class="services-right">
+      <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/Python-Dark.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>Pyhton</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/HTML.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>HTML5</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/JavaScript.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>JavaScript</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/CSS.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>CSS3</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/MySQL-Light.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>MYSQL</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/MongoDB.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>MongoDB</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/React-Dark.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>React</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/NodeJS-Dark.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>Node.js</h5>
+          </div>
+        </div>
+        <div class="box">
+          <div class="box-icon">
+            <i><img height="100px" width="100px" src="assets/ExpressJS-Dark.svg" alt=""> </i>
+          </div>
+          <div class="box-text">
+            <h5>ExpressJS</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ---------------projects------------------------------- -->
+  <section class="portfolio" id="portfolio">
+    <div class="mid-text">
+      <a href="#portfolio" class="h-line">
+        <i class="ri-shining-2-line"></i>
+        <span>Project!</span>
+      </a>
+      <h2>Latest <span>Projects</span></h2>
+    </div>
+    <div class="project-container">
+      <div class="single-project">
+        <div class="viewChangeBtn">
+          <span>Laptop View</span>
+          <label class="toggle-switch">
+            <input type="checkbox" class="toggleViewButton">
+            <div class="toggle-switch-background">
+              <div class="toggle-switch-handle"></div>
+            </div>
+          </label>
+          <span>Mobile View</span>
+        </div>
+        <div class="project-content">
+          <div class="project-content-image">
+            <div class="laptopView view animate__animated animate__faster">
+              <img src="./images/projectImg/modeson Laptop.png" alt="">
+            </div>
+            <div class="mobileView view animate__animated animate__faster mobile-view">
+              <img src="./images/projectImg/modeson mobile.png" alt="">
+            </div>
+          </div>
+          <div class="project-content-detail">
+            <div class="project-heading">
+              <h2>Modesons Clone</h2>
+              <p>The ModeSens website clone aims to replicate the key functionalities and user
+                experience of the original ModeSens platform, focusing on delivering a seamless and
+                efficient shopping experience. The clone includes two primary features: the product
+                description page and the wishlist page.</p>
+            </div>
+            <div class="project-techstack">
+              <p>Tech Stack :</p>
+              <div class="project-techstack-icons">
+                <span>HTML</span>
+                <span>CSS</span>
+                <span>Javascript</span>
+                <span>Slider</span>
+              </div>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/Arijit9t7/Freedom-Frameworks_025-" target="_blank">
+                Github<i style="padding-left: 10px;" class="ri-github-fill"></i>
+              </a>
+              <a href="https://modesensfashion.netlify.app/" target="_blank">
+                Live Demo<i style="padding-left: 10px;" class="ri-links-fill"></i>
+              </a>
+            </div>
+            <div class="project-warning">
+              <p>Note: The app is hosted on Free Server, so it may take a few seconds to load
+                initially.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="single-project">
+        <div class="viewChangeBtn">
+          <div class="viewChangeBtn">
+            <span>Laptop View</span>
+            <label class="toggle-switch">
+              <input type="checkbox" class="toggleViewButton">
+              <div class="toggle-switch-background">
+                <div class="toggle-switch-handle"></div>
+              </div>
+            </label>
+            <span>Mobile View</span>
+          </div>
+        </div>
+        <div class="project-content">
+          <div class="project-content-image">
+            <div class="laptopView view animate__animated animate__faster">
+              <img src="./images/projectImg/budgetbuddy laptop.png" alt="">
+            </div>
+            <div class="mobileView view animate__animated animate__faster mobile-view">
+              <img src="./images/projectImg/budgetbuddy mobile.png" alt="">
+            </div>
+          </div>
+          <div class="project-content-detail">
+            <div class="project-heading">
+              <h2>Budget Buddy</h2>
+              <p>The project aims to develop an intuitive and user-friendly platform for managing personal finances. Its
+                main objectives are to help users track income and expenses, set savings goals, and gain real-time
+                insights into their financial status.</p>
+            </div>
+            <div class="project-techstack">
+              <p>Tech Stack :</p>
+              <div class="project-techstack-icons">
+                <span>HTML</span>
+                <span>CSS</span>
+                <span>Owl Carousal</span>
+              </div>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/vikram0104irctc/Amazon-Avengers_076" target="_blank">
+                Github<i style="padding-left: 10px;" class="ri-github-fill"></i>
+              </a>
+              <a href="https://vikram0104irctc.github.io/Amazon-Avengers_076/" target="_blank">
+                Live Demo<i style="padding-left: 10px;" class="ri-links-fill"></i>
+              </a>
+            </div>
+            <div class="project-warning">
+              <p>Note: The app is hosted on Free Server, so it may take a few seconds to load
+                initially.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- --------------------github statics-------------------- -->
+
+  <section id="Statisticscon">
+    <section id="Statistics">
+      <div class="mid-text">
+        <a href="#Statisticscon" class="h-line">
+          <i class="ri-shining-2-line"></i>
+          <span>Statistics!</span>
+        </a>
+        <h2>Github <span>Statistics</span></h2>
+      </div>
+      <div class="stats-chart">
+        <img src="https://ghchart.rshah.org/FC2B58/vikram0104irctc" alt="vikram0104irctc chart"
+          class="react-activity-calendar" />
+      </div>
+      <div class="stats-details">
+        <div>
+          <img
+            src="https://github-readme-streak-stats.herokuapp.com?user=vikram0104irctc&theme=shadow-brown&card_width=420&card_height=100&background=1c1c1c&stroke=f3a296&ring=f0f0f0&currStreakNum=73cae7&sideLabels=f0f0f0&fire=EB4506&sideNums=f0f0f0&border=1c1c1c"
+            alt="GitHub Streak" />
+        </div>
+        <div>
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=vikram0104irctc&bg_color=1c1c1c&text_color=f0f0f0&icon_color=73cae7&title_color=73cae7&card_width=300px&show_icons=true&hide_border=true&count_private=true"
+            id="github-stats-card" alt="github-stats-card" />
+        </div>
+        <div>
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram0104irctc&theme=vue-dark&bg_color=1c1c1c&text_color=f0f0f0&icon_color=73cae7&card_width=300px&title_color=73cae7&show_icons=true&hide_border=true&layout=compact"
+            id="github-top-langs" alt="github-top-langs" />
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <!-- ------------------------contact us------------------------ -->
+  <section class="contact" id="contact">
+    <div class="contact-main">
+      <a href="#contact" class="h-line">
+        <i class="ri-shining-2-line"></i>
+        <span>Contact!</span>
+      </a>
+      <h2>Looking for a Developer ? <span>Let's talk</span></h2>
+      <div class="email">
+        <p>Email:</p>
+        <h6>vikram0104irctc@gmail.com</h6>
+      </div>
+      <div class="num">
+        <p>Call:</p>
+        <h6>7903667660</h6>
+      </div>
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/vikram-kumar-choudhary/" target="_blank"><i
+            class="ri-linkedin-box-fill"></i></a>
+        <a href="https://github.com/vikram0104irctc" target="_blank"><i class="ri-github-fill"></i></a>
+        <a href="https://www.instagram.com/its_vikram_.choudhary?utm_source=qr&igsh=c24wbmxycTd5M2xr" target="_blank"><i
+            class="ri-instagram-line"></i></a>
+        <a href="https://www.facebook.com/share/tC4tLZjXebpkvCqu/?mibextid=qi2Omg" target="_blank"><i
+            class="ri-facebook-fill"></i></a>
+        <a href="https://x.com/Itsavikram?t=KwXd5qoQal9wekOMLo0YLA&s=09" target="_blank"><i
+            class="ri-twitter-fill"></i></a>
+      </div>
+    </div>
+    <form class="contact-form" method="POST" name="google-sheet">
+      <input type="text" placeholder="Your Name" required name="Name">
+      <input type="email" placeholder="Email address..." required name="Email">
+      <textarea cols="30" placeholder="Write Message here..." required name="Message"></textarea>
+      <input type="submit" value="Submit Now" class="submit-btn" name="submit">
+    </form>
+  </section>
+
+  <!----------------------------footer------------------------ -->
+  <div class="footer">
+    <div class="copyright">
+      <p>@Copyright Vikram Kumar Choudhary All Rights Reserved.</p>
+    </div>
+    <a href="#home" class="scroll-top">
+      <i class="ri-arrow-up-s-line"></i>
+    </a>
+  </div>
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+  <script src="script.js"></script>
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      offset: 1,
+    });
+  </script>
+
+</body>
+
+</html>
