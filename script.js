@@ -101,3 +101,25 @@ toggleButtons.forEach((button) => {
     }
   });
 });
+
+
+
+
+
+
+
+
+
+
+
+// ---------------------Animations project --------------------------------
+
+// document.addEventListener('scroll', function() {
+//   const project = document.querySelector('.single-project');
+//   const rect = project.getBoundingClientRect();
+  
+//   if (rect.top < window.innerHeight && rect.bottom >= 0) {
+//     project.classList.add('visible'); // Add visible class when in view
+//   }
+// });
+
