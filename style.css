@@ -48,6 +48,7 @@ header {
   justify-content: space-between;
   transition: all 0.6s ease;
 }
+
 .logo img {
   max-width: 80px;
   width: 100%;
@@ -91,6 +92,19 @@ header {
   background: linear-gradient(135deg, var(--main-color) 0%, #e1bac5 100%);
 }
 
+.heroSectionImg {
+  width: 400px;
+  height: 450px;
+  border-radius: 70%
+}
+
+.heroSectionImg>img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 70%;
+}
+
 #menu-icon {
   z-index: 10001;
   font-size: 40px;
@@ -114,6 +128,11 @@ section {
   display: flex;
   align-items: center;
   justify-content: flex-start;
+}
+
+
+.rounded-lg {
+  border-radius: 40px;
 }
 
 .home {
@@ -155,11 +174,9 @@ section {
 }
 
 .home-text h1 span {
-  background: -webkit-linear-gradient(
-    135deg,
-    #e1bac5 0%,
-    var(--main-color) 100%
-  );
+  background: -webkit-linear-gradient(135deg,
+      #e1bac5 0%,
+      var(--main-color) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -243,17 +260,13 @@ header.sticky {
 }
 
 .about-img img {
-  width: 70%;
+  /* width: 70%; */
   height: 480px;
   max-width: 500px;
-  border-radius: 20%;
-  object-fit: cover;
-  background: -webkit-linear-gradient(
-    135deg,
-    var(--main-color) 0%,
-    #e1bac5 100%
-  );
-  border: 5px solid var(--main-color);
+  border-radius: 70%;
+  object-fit: none;
+  background: -webkit-linear-gradient(135deg, var(--main-color) 0%, #e1bac5 100%);
+  /* border: 5px solid var(--main-color); */
 }
 
 .about-text h2 {
@@ -262,11 +275,9 @@ header.sticky {
 }
 
 .about-text h2 span {
-  background: -webkit-linear-gradient(
-    135deg,
-    #e1bac5 0%,
-    var(--main-color) 100%
-  );
+  background: -webkit-linear-gradient(135deg,
+      #e1bac5 0%,
+      var(--main-color) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -299,11 +310,9 @@ header.sticky {
 }
 
 .services-left h2 span {
-  background: -webkit-linear-gradient(
-    135deg,
-    #e1bac5 0%,
-    var(--main-color) 100%
-  );
+  background: -webkit-linear-gradient(135deg,
+      #e1bac5 0%,
+      var(--main-color) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -386,11 +395,9 @@ header.sticky {
 }
 
 .mid-text h2 span {
-  background: -webkit-linear-gradient(
-    135deg,
-    #e1bac5 0%,
-    var(--main-color) 100%
-  );
+  background: -webkit-linear-gradient(135deg,
+      #e1bac5 0%,
+      var(--main-color) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -446,8 +453,8 @@ header.sticky {
 }
 
 .project-content-image img {
-  height: 400px;
-  width: auto;
+  /* height: 400px; */
+  width: 600px;
   object-fit: cover;
   border-radius: 10px;
   transition: all 0.3s ease;
@@ -592,14 +599,11 @@ header.sticky {
   transition: color 0.3s ease-in-out;
 }
 
-.toggle-switch input[type="checkbox"]:checked + .toggle-switch-background {
+.toggle-switch input[type="checkbox"]:checked+.toggle-switch-background {
   background-color: #73cae7;
 }
 
-.toggle-switch
-  input[type="checkbox"]:checked
-  + .toggle-switch-background
-  .toggle-switch-handle {
+.toggle-switch input[type="checkbox"]:checked+.toggle-switch-background .toggle-switch-handle {
   transform: translateX(20px);
 }
 
@@ -689,6 +693,10 @@ header.sticky {
     padding: 20px;
   }
 
+  .heroSectionImg {
+    display: none;
+  }
+
   .stats-chart {
     display: none;
   }
@@ -730,11 +738,9 @@ header.sticky {
 }
 
 .contact-main h2 span {
-  background: -webkit-linear-gradient(
-    135deg,
-    #e1bac5 0%,
-    var(--main-color) 100%
-  );
+  background: -webkit-linear-gradient(135deg,
+      #e1bac5 0%,
+      var(--main-color) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -843,12 +849,15 @@ form .submit-btn:hover {
   header {
     padding: 15px 6%;
   }
+
   header.sticky {
     padding: 3px 6%;
   }
+
   section {
     padding: 100px 6% 80px;
   }
+
   .footer {
     padding: 15px 6%;
   }
@@ -858,15 +867,19 @@ form .submit-btn:hover {
   header {
     padding: 15px 3%;
   }
+
   header.sticky {
     padding: 3px 3%;
   }
+
   section {
     padding: 100px 3% 80px;
   }
+
   .footer {
     padding: 15px 3%;
   }
+
   :root {
     --h1-font: 4.5rem;
     --h2-font: 3rem;
@@ -879,9 +892,11 @@ form .submit-btn:hover {
     grid-template-columns: 1fr;
     gap: 2rem;
   }
+
   .about-img {
     text-align: center;
   }
+
   .about-img img {
     text-align: center;
     width: 100%;
@@ -891,24 +906,29 @@ form .submit-btn:hover {
     object-fit: cover;
     margin: 0 auto;
   }
+
   .services {
     grid-template-columns: 1fr;
     gap: 2rem;
   }
+
   .services-right {
     grid-template-columns: repeat(auto-fit, minmax(300px, auto));
     width: 100%;
   }
+
   .box {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
     align-items: center;
   }
+
   .contact {
     grid-template-columns: 1fr;
     gap: 2rem;
   }
+
   .contact-form {
     width: 100%;
     max-width: 100%;
@@ -919,18 +939,22 @@ form .submit-btn:hover {
   .logo img {
     max-width: 50px;
   }
+
   .menulist a {
     margin: 0 20px;
     font-size: 17px;
   }
+
   .menu-btn {
     padding: 14px 22px;
     font-size: 15px;
   }
+
   .btn1 {
     padding: 14px 22px;
     font-size: 15px;
   }
+
   .btn2 {
     padding: 14px 22px;
     font-size: 15px;
@@ -948,6 +972,7 @@ form .submit-btn:hover {
   #menu-icon {
     display: block;
   }
+
   .menulist {
     position: absolute;
     width: 100%;
@@ -968,6 +993,7 @@ form .submit-btn:hover {
     margin: 0px 0px 25px 0px;
     font-size: 1.7rem;
   }
+
   .menulist.open {
     left: 0;
   }
@@ -978,6 +1004,7 @@ form .submit-btn:hover {
     --h1-font: 3.4rem;
     --h2-font: 2.5rem;
   }
+
   .about-img img {
     text-align: center;
     width: 100%;
@@ -987,6 +1014,7 @@ form .submit-btn:hover {
     object-fit: cover;
     margin: 0 auto;
   }
+
   form .submit-btn {
     padding: 13px 27px;
     width: 40%;
@@ -1066,4 +1094,3 @@ form .submit-btn:hover {
   opacity: 1; 
   transform: translateY(0); 
 } */
-

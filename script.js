@@ -16,7 +16,7 @@ window.onscroll = () => {
 };
 
 var typed = new Typed(".input", {
-  strings: ["Web Designer.", "Web Developer."],
+  strings: ["Front-End Developer.", "UI Developer."],
   typeSpeed: 120,
   backSpeed: 70,
   loop: true,
@@ -35,19 +35,19 @@ function downloadFile(event) {
   document.body.removeChild(tempLink);
 }
 
-const scriptURL =
-  "https://script.google.com/macros/s/AKfycbxB4ZMwTDbV57T52YiM3pSw2-r4JwMCV6D0zygY8nyGQVj7vFWEDRIvnfrUY1seY1_c/exec";
-let form = document.forms["google-sheet"];
+// const scriptURL =
+//   "https://script.google.com/macros/s/AKfycbxB4ZMwTDbV57T52YiM3pSw2-r4JwMCV6D0zygY8nyGQVj7vFWEDRIvnfrUY1seY1_c/exec";
+// let form = document.forms["google-sheet"];
 
-form.addEventListener("submit", (e) => {
-  e.preventDefault();
-  fetch(scriptURL, { method: "POST", body: new FormData(form) })
-    .then((response) =>
-      alert("Thanks for Contacting us..! I Will Contact You Soon...")
-    )
-    .catch((error) => console.error("Error!", error.message));
-  form.reset();
-});
+// form.addEventListener("submit", (e) => {
+//   e.preventDefault();
+//   fetch(scriptURL, { method: "POST", body: new FormData(form) })
+//     .then((response) =>
+//       alert("Thanks for Contacting us..! I Will Contact You Soon...")
+//     )
+//     .catch((error) => console.error("Error!", error.message));
+//   form.reset();
+// });
 
 const canvas = document.getElementById("noise");
 const ctx = canvas.getContext("2d");
@@ -117,9 +117,12 @@ toggleButtons.forEach((button) => {
 // document.addEventListener('scroll', function() {
 //   const project = document.querySelector('.single-project');
 //   const rect = project.getBoundingClientRect();
-  
+
 //   if (rect.top < window.innerHeight && rect.bottom >= 0) {
 //     project.classList.add('visible'); // Add visible class when in view
 //   }
 // });
+
+// email message/form handle
+
 
