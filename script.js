@@ -29,7 +29,7 @@ function downloadFile(event) {
   window.open(url, "_blank");
   const tempLink = document.createElement("a");
   tempLink.href = url;
-  tempLink.download = "Ishwar Sahani";
+  tempLink.download = "resume_ishwar_sahani.pdf";
   document.body.appendChild(tempLink);
   tempLink.click();
   document.body.removeChild(tempLink);
