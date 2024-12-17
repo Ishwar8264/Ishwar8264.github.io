@@ -26,14 +26,15 @@ function downloadFile(event) {
   event.preventDefault();
   const link = event.currentTarget;
   const url = link.href;
-  window.open(url, "_blank");
+
   const tempLink = document.createElement("a");
   tempLink.href = url;
-  tempLink.download = "resume_ishwar_sahani.pdf";
+  tempLink.download = "Ishwar_Sahani_Resume.pdf"; // Ensure proper file naming
   document.body.appendChild(tempLink);
   tempLink.click();
-  document.body.removeChild(tempLink);
+  document.body.removeChild(tempLink); // Clean up
 }
+
 
 // const scriptURL =
 //   "https://script.google.com/macros/s/AKfycbxB4ZMwTDbV57T52YiM3pSw2-r4JwMCV6D0zygY8nyGQVj7vFWEDRIvnfrUY1seY1_c/exec";
