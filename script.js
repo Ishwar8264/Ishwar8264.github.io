@@ -29,7 +29,7 @@ function downloadFile(event) {
   window.open(url, "_blank");
   const tempLink = document.createElement("a");
   tempLink.href = url;
-  tempLink.download = "VikramKumarChoudhary-FullStackWebDeveloper-Resume.pdf";
+  tempLink.download = "Ishwar Sahani";
   document.body.appendChild(tempLink);
   tempLink.click();
   document.body.removeChild(tempLink);
