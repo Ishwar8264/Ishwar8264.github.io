@@ -439,6 +439,7 @@ header.sticky {
   height: 100%;
   width: 100%;
   display: flex;
+  gap: 40px;
   margin-top: 20px;
 }
 
