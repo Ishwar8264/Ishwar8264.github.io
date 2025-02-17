@@ -16,7 +16,7 @@ window.onscroll = () => {
 };
 
 var typed = new Typed(".input", {
-  strings: ["Sowftware Engineer", "WebDev", "MERN Stack Developer"],
+  strings: ["Softwar Engineer", "WebDev", "MERN Developer."],
   typeSpeed: 120,
   backSpeed: 70,
   loop: true,
