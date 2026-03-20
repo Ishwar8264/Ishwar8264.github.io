@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ishwar8264.github.io
+Sitemap: https://ishwar8264.github.io/sitemap.xml
