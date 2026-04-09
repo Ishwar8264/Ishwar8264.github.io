@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://ishwar8264.github.io</loc>
-<lastmod>2026-03-30T17:31:01.203Z</lastmod>
+<image:image>
+<image:loc>https://ishwar8264.github.io/images/profile/img-2.jpeg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ishwar8264.github.io/icon-512.png</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ishwar8264.github.io/images/projects/klakar.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ishwar8264.github.io/images/projects/learning-network.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ishwar8264.github.io/images/projects/sandhee.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ishwar8264.github.io/images/projects/mquad.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ishwar8264.github.io/images/projects/todos-app.webp</image:loc>
+</image:image>
+<lastmod>2026-04-09T17:57:27.740Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
