@@ -1,0 +1,25 @@
+/* TEAM */
+
+Founder: Ishwar Sahani
+Also known as: Ishwar Kumar
+Role: Frontend Developer
+Location: Gurugram, Haryana, India
+Timezone: IST (UTC+05:30)
+Contact: ishwar.sahani119@gmail.com
+LinkedIn: https://www.linkedin.com/in/ishwarsahani/
+GitHub: https://github.com/Ishwar8264
+
+/* THANKS */
+
+Frameworks: Next.js, React, Tailwind CSS, shadcn/ui
+Tooling: Turbopack, pnpm, TypeScript
+Hosting: GitHub Pages
+Icons: lucide-react
+Animations: motion (Framer Motion)
+
+/* SITE */
+
+Last update: 2025
+Standards: HTML5, CSS3, ES2023+
+Components: React 19, Next.js 16
+Software: VSCodium, pnpm, Git

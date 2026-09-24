@@ -1,5 +1,52 @@
 User-Agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/internal/
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Claude-Web
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Perplexity-User
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+User-Agent: FacebookBot
+Allow: /
+
+User-Agent: Bytespider
+Allow: /
+
+User-Agent: Applebot
+Allow: /
+
+User-Agent: Applebot-Extended
+Allow: /
+
+User-Agent: Amazonbot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: cohere-ai
+Allow: /
+
+User-Agent: Diffbot
+Allow: /
 
 Host: https://ishwar8264.github.io
 Sitemap: https://ishwar8264.github.io/sitemap.xml

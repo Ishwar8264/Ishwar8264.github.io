@@ -1,0 +1,132 @@
+# Ishwar Sahani
+
+> Ishwar Sahani (also known as Ishwar Kumar) is a Frontend Developer based in Gurugram, India, specializing in Next.js, React, Node.js, and full-stack MERN/PERN development. He works full-time as a Frontend Developer at a startup and takes on selective freelance frontend projects.
+
+Ishwar Sahani is a Frontend Developer in Gurugram, Haryana, India. He currently works full-time as a Frontend Developer at a startup, where he ships product UI for platforms like Klakar (an artist network) and Dizivizi (a video-location platform). Alongside his full-time role, he takes on selective freelance frontend projects for clients across India.
+
+He holds a B.Tech in Computer Science Engineering and has spent the last year owning frontend features end-to-end in a fast-moving startup environment, translating product requirements into responsive, accessible, and production-ready interfaces.
+
+## Primary Skills
+
+- **Next.js** (App Router, Server Components, Turbopack)
+- **React.js** (Hooks, Server Components, Suspense)
+- **Node.js** (REST API design, Express)
+- **TypeScript** (type-safe APIs, generics)
+- **JavaScript** (ES2023+, modern async patterns)
+- **MERN Stack** (MongoDB, Express, React, Node.js)
+- **PERN Stack** (PostgreSQL, Express, React, Node.js)
+- **Tailwind CSS** (v4, design tokens, responsive UI)
+- **HTML5** (semantic markup, accessibility)
+- **CSS3** (Grid, Flexbox, container queries)
+- **REST API Integration** (fetch, React Query, SWR)
+- **Responsive Web Design** (mobile-first, container queries)
+- **Web Performance** (Core Web Vitals, image optimization)
+- **SEO for Single Page Apps** (metadata, JSON-LD, sitemaps)
+- **Git & GitHub** (workflow, code review, Actions CI/CD)
+- **PWA** (service workers, manifest, install prompts)
+
+## Roles
+
+Ishwar Sahani is available for and experienced in the following roles:
+
+- Frontend Developer
+- Next.js Developer
+- Next.js Full Stack Developer
+- React Developer
+- React.js Developer
+- Node.js Developer
+- MERN Stack Developer
+- PERN Stack Developer
+- Full Stack Developer
+- JavaScript Developer
+- TypeScript Developer
+- Tailwind CSS Developer
+
+## Professional Experience
+
+### Klakar — Frontend Developer (2025 — Present, Gurugram, India)
+
+Building the frontend of Klakar, a startup platform where creative professionals build standout portfolios, find collaborators, learn from working pros, and let AI handle the busywork. Working as a full-time Frontend Developer in a startup environment, owning UI implementation end-to-end across product surfaces.
+
+- Own and ship frontend features for Klakar's artist network product using Next.js, React, and TypeScript.
+- Translate product requirements and Figma designs into responsive, accessible, and production-ready UI components with Tailwind CSS.
+- Collaborate directly with founders and backend engineers to integrate APIs, shape product flows, and unblock delivery on tight startup timelines.
+- Improve performance and Core Web Vitals through image optimization, code splitting, and modern Next.js App Router patterns.
+
+Website: https://klakar.com/
+
+### Dizivizi — Frontend Developer (2024 — 2025, Remote, India)
+
+Worked on the frontend of Dizivizi, a video-sharing platform where users tag videos to map locations so others can discover content by place. Built and maintained responsive UI, interactive map experiences, and dynamic video player interfaces for web.
+
+- Implemented interactive map-based video discovery UI using React and JavaScript.
+- Built responsive video player and listing components across desktop, tablet, and mobile breakpoints.
+- Integrated backend APIs for video upload, geotagging, and feed rendering with clean loading and error states.
+
+Website: https://dizivizi.com/
+
+### Freelance Frontend Developer (2024 — Present, Self-Employed)
+
+Available for select freelance frontend work alongside the full-time role — building modern, responsive, and conversion-focused websites and web applications for clients across India.
+
+- Delivered responsive marketing websites and landing pages using Next.js, React, Tailwind CSS.
+- Shipped client web applications with API integration and dynamic data flows.
+- Improved SEO readiness and Core Web Vitals for client sites.
+
+## Featured Projects
+
+- **Klakar** — Creative network platform for artists. Built with Next.js, React, TypeScript, Tailwind CSS. https://klakar.com/
+- **Dizivizi** — Video-location sharing platform. Built with React.js, JavaScript. https://dizivizi.com/
+- **Learning Network** — Responsive learning and task platform. Built with HTML5, CSS3, JavaScript, Bootstrap. https://learningnetwork.ictforag.com/
+- **Sandhee** — Brand website with React + Tailwind CSS. https://sandhee.com/
+- **MQUAD** — E-commerce interface. Built with HTML5, CSS3, JavaScript, PHP. https://mquad.org/
+- **Todos App** — Personal JavaScript portfolio project. https://todos-one-livid.vercel.app/
+
+## Services Offered
+
+- Frontend Website Development
+- Next.js Full Stack Development
+- MERN Stack Development (MongoDB, Express, React, Node.js)
+- PERN Stack Development (PostgreSQL, Express, React, Node.js)
+- React.js Development
+- Node.js Backend & API Integration
+- Tailwind CSS and Responsive UI
+
+## Contact
+
+- **Email:** ishwar.sahani119@gmail.com
+- **Phone:** +91 82648 82518
+- **WhatsApp:** https://wa.me/918264882518
+- **LinkedIn:** https://www.linkedin.com/in/ishwarsahani/
+- **GitHub:** https://github.com/Ishwar8264
+- **Resume (PDF):** https://ishwar8264.github.io/resume/resume_ishwar_sahani.pdf
+- **Location:** Gurugram, Haryana, India
+- **Timezone:** IST (Indian Standard Time, UTC+05:30)
+- **Working Hours:** Monday–Saturday, 09:00–19:00 IST
+- **Response Time:** Under 4 hours during IST business hours
+
+## Availability
+
+- Full-time Frontend Developer role: Currently employed at Klakar (startup).
+- Freelance frontend projects: Available selectively.
+- Remote work: Available worldwide, aligned to IST business hours.
+- Languages: English (en-IN), Hindi (hi-IN).
+
+## Links
+
+- [Portfolio Homepage](https://ishwar8264.github.io/)
+- [About Section](https://ishwar8264.github.io/#about)
+- [Experience Section](https://ishwar8264.github.io/#experience)
+- [Projects Section](https://ishwar8264.github.io/#projects)
+- [Skills Section](https://ishwar8264.github.io/#skills)
+- [Services Section](https://ishwar8264.github.io/#services)
+- [Contact Section](https://ishwar8264.github.io/#contact)
+- [Resume PDF](https://ishwar8264.github.io/resume/resume_ishwar_sahani.pdf)
+- [GitHub Profile](https://github.com/Ishwar8264)
+- [LinkedIn Profile](https://www.linkedin.com/in/ishwarsahani/)
+
+## Optional
+
+- [Sitemap (XML)](https://ishwar8264.github.io/sitemap.xml)
+- [Robots (TXT)](https://ishwar8264.github.io/robots.txt)
+- [PWA Manifest](https://ishwar8264.github.io/manifest.webmanifest)

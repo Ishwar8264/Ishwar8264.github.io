@@ -1,0 +1,287 @@
+# Ishwar Sahani — Frontend Developer (Next.js, React, Node.js)
+
+## Identity
+
+- **Full Name:** Ishwar Sahani
+- **Alternate Name:** Ishwar Kumar
+- **Given Name:** Ishwar
+- **Family Name:** Sahani
+- **Role:** Frontend Developer
+- **Job Title:** Frontend Developer
+- **Headline:** Frontend Developer — Next.js, React, Node.js | Gurugram, India
+- **Location:** Gurugram, Haryana, India
+- **Country:** India
+- **Nationality:** Indian
+- **Languages:** English (en-IN), Hindi (hi-IN)
+- **Timezone:** IST (UTC+05:30)
+- **Email:** ishwar.sahani119@gmail.com
+- **Phone:** +91 82648 82518
+- **LinkedIn:** https://www.linkedin.com/in/ishwarsahani/
+- **GitHub:** https://github.com/Ishwar8264
+- **Portfolio:** https://ishwar8264.github.io/
+- **Resume (PDF):** https://ishwar8264.github.io/resume/resume_ishwar_sahani.pdf
+
+## Summary
+
+Ishwar Sahani (also known as Ishwar Kumar) is a Frontend Developer based in Gurugram, India. He works full-time at a startup where he builds product UI for platforms like Klakar (an artist network) and Dizivizi (a video-location platform) using Next.js, React, TypeScript, and Tailwind CSS. Alongside his full-time role, he takes on selective freelance frontend projects for clients across India.
+
+He holds a B.Tech in Computer Science Engineering and has spent the last year owning frontend features end-to-end in a fast-moving startup environment — translating product requirements into responsive, accessible, and production-ready interfaces.
+
+## Education
+
+- **Degree:** B.Tech in Computer Science Engineering
+- **Field:** Computer Science Engineering
+
+## Roles & Job Titles
+
+Ishwar Sahani is available for and experienced in the following roles:
+
+- Frontend Developer
+- Frontend Developer India
+- Frontend Developer Gurugram
+- Next.js Developer
+- Next.js Developer India
+- Next.js Full Stack Developer
+- React Developer
+- React.js Developer
+- Node.js Developer
+- Node.js Developer India
+- MERN Stack Developer
+- MERN Stack Developer India
+- PERN Stack Developer
+- PERN Stack Developer India
+- Full Stack Developer India
+- JavaScript Developer Gurugram
+- TypeScript Developer India
+- Tailwind CSS Developer
+- Web Developer India
+- Responsive Web Developer India
+
+## Technical Skills
+
+### MERN Stack
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- MERN Full Stack
+
+### PERN Stack
+
+- PostgreSQL
+- Express.js
+- React.js
+- Node.js
+- PERN Full Stack
+
+### Frontend
+
+- Next.js (App Router, Server Components, Turbopack)
+- React.js (Hooks, Server Components, Suspense)
+- TypeScript (type-safe APIs, generics)
+- JavaScript (ES2023+, modern async patterns)
+- HTML5 (semantic markup, accessibility)
+- CSS3 (Grid, Flexbox, container queries)
+- Tailwind CSS (v4, design tokens, responsive UI)
+
+### Backend & API
+
+- Node.js (REST API design, Express)
+- Express.js
+- REST API Design
+- API Integration
+- JWT Authentication
+- MongoDB
+- PostgreSQL
+
+### UI & Styling
+
+- Tailwind CSS
+- Responsive Design
+- Mobile-First UI
+- Cross-Browser Compatibility
+- Accessibility (a11y)
+
+### Performance & SEO
+
+- Core Web Vitals
+- Image Optimization
+- Code Splitting
+- SEO for SPAs
+- JSON-LD Structured Data
+- Sitemap & Robots.txt
+
+### Dev Workflow
+
+- Git & GitHub
+- GitHub Actions CI/CD
+- Vercel & Netlify Deployment
+- pnpm & npm
+- Component Reusability
+- Clean Code
+
+## Professional Experience
+
+### Klakar — Frontend Developer
+
+- **Company:** Klakar
+- **Company URL:** https://klakar.com/
+- **Role:** Frontend Developer
+- **Period:** 2025 — Present
+- **Location:** Gurugram, India
+- **Current:** Yes
+- **Project:** Klakar — Network for Artists
+- **Project URL:** https://klakar.com/
+
+Klakar is a startup platform where creative professionals build standout portfolios, find work and collaborators, learn from working pros, and let AI handle the busywork. Working as a full-time Frontend Developer in a fast-moving startup environment, owning UI implementation end-to-end across product surfaces.
+
+**Highlights:**
+
+- Own and ship frontend features for Klakar's artist network product using Next.js, React, and TypeScript in a startup environment.
+- Translate product requirements and Figma designs into responsive, accessible, and production-ready UI components with Tailwind CSS.
+- Collaborate directly with founders and backend engineers to integrate APIs, shape product flows, and unblock delivery on tight startup timelines.
+- Improve performance and Core Web Vitals through image optimization, code splitting, and modern Next.js App Router patterns.
+
+**Focus Areas:** Next.js, React.js, TypeScript, Tailwind CSS, Startup Frontend
+
+### Dizivizi — Frontend Developer
+
+- **Company:** Dizivizi
+- **Company URL:** https://dizivizi.com/
+- **Role:** Frontend Developer
+- **Period:** 2024 — 2025
+- **Location:** Remote, India
+- **Project:** Dizivizi — Video-location Platform
+- **Project URL:** https://dizivizi.com/
+
+Dizivizi is a video-sharing platform where users tag videos to map locations so others can discover content by place. Worked on the frontend, building and maintaining responsive UI, interactive map experiences, and dynamic video player interfaces for web.
+
+**Highlights:**
+
+- Implemented interactive map-based video discovery UI using React and JavaScript, letting users browse videos pinned to real-world locations.
+- Built responsive video player and listing components for the Dizivizi web platform across desktop, tablet, and mobile breakpoints.
+- Integrated backend APIs for video upload, geotagging, and feed rendering with clean loading and error states.
+- Collaborated with the product team to refine UX flows for video tagging, search, and location-based discovery.
+
+**Focus Areas:** React.js, JavaScript, Interactive Maps, Video Player UI, Responsive Design
+
+### Freelance Frontend Developer — Self-Employed
+
+- **Company:** Self-Employed
+- **Role:** Freelance Frontend Developer
+- **Period:** 2024 — Present
+- **Location:** Gurugram, India
+- **Current:** Yes
+- **Project:** Client Websites & Web Apps
+
+Available for select freelance frontend work alongside the full-time role — building modern, responsive, and conversion-focused websites and web applications for clients across India.
+
+**Highlights:**
+
+- Delivered responsive marketing websites and landing pages for freelance clients using Next.js, React, Tailwind CSS, and modern frontend tooling.
+- Shipped client web applications with API integration, dynamic data flows, and clean state management for real business use cases.
+- Improved SEO readiness and Core Web Vitals for client sites through semantic HTML, image optimization, and performance-minded code.
+- Managed end-to-end delivery — from client requirements and design handoff to production deploy — with clear communication throughout.
+
+**Focus Areas:** Next.js, React.js, Landing Pages, API Integration, Responsive Design
+
+## Featured Projects
+
+### Klakar
+
+- **URL:** https://klakar.com/
+- **Stack:** Next.js, React.js, TypeScript, Tailwind CSS, API Integration
+- **Status:** Featured Product
+- **Description:** Frontend development for a creative network platform built with Next.js, React, and Tailwind CSS. Delivered responsive UI flows, polished user journeys, and API-connected product experiences for a live startup platform.
+
+### Dizivizi
+
+- **URL:** https://dizivizi.com/
+- **Stack:** React.js, JavaScript, Interactive Maps, Video Player UI
+- **Description:** Video-location platform where users tag videos to map locations so others can discover content by place.
+
+### Learning Network
+
+- **URL:** https://learningnetwork.ictforag.com/
+- **Stack:** HTML5, CSS3, JavaScript, Bootstrap, Responsive Design
+- **Status:** Client Project
+- **Description:** Responsive web platform for task and learning workflows with authentication, JavaScript-powered UI, and production-ready frontend delivery for real users.
+
+### Sandhee
+
+- **URL:** https://sandhee.com/
+- **Stack:** React.js, Vite, Tailwind CSS, UI Development, Responsive Design
+- **Status:** Client Project
+- **Description:** React-based brand website with Tailwind CSS, responsive product showcase pages, and polished UI interactions.
+
+### MQUAD
+
+- **URL:** https://mquad.org/
+- **Stack:** HTML5, CSS3, JavaScript, PHP, E-commerce UI
+- **Status:** Portfolio Project
+- **Description:** E-commerce web interface focused on product discovery, wishlist flows, and responsive frontend implementation.
+
+### Todos App
+
+- **URL:** https://todos-one-livid.vercel.app/
+- **Repo:** https://github.com/Ishwar8264/Todos
+- **Stack:** JavaScript, HTML5, CSS3, Responsive Design
+- **Status:** Personal Project
+- **Description:** Personal frontend portfolio project showcasing JavaScript fundamentals, clean UI structure, responsive design, and practical state handling.
+
+## Services
+
+### Frontend Website Development
+
+Modern, responsive, and SEO-friendly websites built with Next.js, React, HTML5, CSS3, and Tailwind CSS. Delivered for startups, small businesses, and personal brands across Gurugram and India.
+
+### Next.js Full Stack Development
+
+Production web applications built end-to-end with Next.js App Router, React Server Components, Node.js APIs, and database integration. Full-stack delivery from UI to deploy on Vercel.
+
+### MERN Stack Development
+
+Full-stack web apps using the MERN stack — MongoDB, Express.js, React.js, and Node.js. Includes REST API design, JWT authentication, and MongoDB schema modeling for production use.
+
+### PERN Stack Development
+
+Relational full-stack applications using the PERN stack — PostgreSQL, Express.js, React.js, and Node.js. Includes schema design, REST APIs, and type-safe data flows.
+
+### React.js Development
+
+Component-driven web applications and dashboards built with React.js, TypeScript, and modern hooks. Focused on reusable UI, performance, and maintainable code.
+
+### Node.js Backend & API Integration
+
+REST API design and frontend integration using Node.js, Express, and modern fetch patterns. Covers authentication, error handling, and clean client-side data fetching.
+
+### Tailwind CSS and Responsive UI
+
+Mobile-first layouts and design-system-driven UIs with Tailwind CSS v4. Polished responsive interfaces that improve usability, speed, and conversion.
+
+## Availability
+
+- **Full-time role:** Currently employed as Frontend Developer at Klakar (startup).
+- **Freelance work:** Available selectively.
+- **Remote work:** Available worldwide, aligned to IST business hours.
+- **Working Hours:** Monday–Saturday, 09:00–19:00 IST.
+- **Response Time:** Under 4 hours during IST business hours.
+
+## Contact
+
+- **Email:** ishwar.sahani119@gmail.com
+- **Phone:** +91 82648 82518
+- **WhatsApp:** https://wa.me/918264882518
+- **LinkedIn:** https://www.linkedin.com/in/ishwarsahani/
+- **GitHub:** https://github.com/Ishwar8264
+- **Portfolio:** https://ishwar8264.github.io/
+- **Resume:** https://ishwar8264.github.io/resume/resume_ishwar_sahani.pdf
+
+## Links
+
+- [Portfolio Homepage](https://ishwar8264.github.io/)
+- [Sitemap XML](https://ishwar8264.github.io/sitemap.xml)
+- [Robots TXT](https://ishwar8264.github.io/robots.txt)
+- [PWA Manifest](https://ishwar8264.github.io/manifest.webmanifest)
+- [llms.txt](https://ishwar8264.github.io/llms.txt)
